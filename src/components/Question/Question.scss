@@ -1,0 +1,17 @@
+@import "../../styles/variables";
+
+
+.Question {
+  max-width: 500px;
+  margin: auto;
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", sans-serif;
+  &-options {
+    border: 1px solid $border;
+    //font-size: 16pt ;
+  }
+}
+
+.photo{
+  width: 500px;
+  height: 300px;
+}
