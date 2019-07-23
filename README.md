@@ -1,8 +1,8 @@
-## quiz_app
+## QuizApp
 
 * Clone the repository
 
-### ` git clone https://github.com/pesach020/quiz_app.git `
+### ` git clone https://github.com/pesach020/QuizApp.git `
 
 * Open repository
 
