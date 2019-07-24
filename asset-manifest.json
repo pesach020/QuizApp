@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/QuizApp/static/css/main.7738e31e.chunk.css",
+    "main.js": "/QuizApp/static/js/main.2c9e537d.chunk.js",
+    "main.js.map": "/QuizApp/static/js/main.2c9e537d.chunk.js.map",
+    "runtime~main.js": "/QuizApp/static/js/runtime~main.0a40b9c9.js",
+    "runtime~main.js.map": "/QuizApp/static/js/runtime~main.0a40b9c9.js.map",
+    "static/js/2.2f5f1ca4.chunk.js": "/QuizApp/static/js/2.2f5f1ca4.chunk.js",
+    "static/js/2.2f5f1ca4.chunk.js.map": "/QuizApp/static/js/2.2f5f1ca4.chunk.js.map",
+    "index.html": "/QuizApp/index.html",
+    "precache-manifest.4fbe84a7179de445e634b2e2371ef28c.js": "/QuizApp/precache-manifest.4fbe84a7179de445e634b2e2371ef28c.js",
+    "service-worker.js": "/QuizApp/service-worker.js",
+    "static/css/main.7738e31e.chunk.css.map": "/QuizApp/static/css/main.7738e31e.chunk.css.map",
+    "static/media/family.jpg": "/QuizApp/static/media/family.3d1d8207.jpg",
+    "static/media/img1.jpg": "/QuizApp/static/media/img1.c39ee950.jpg",
+    "static/media/img2.jpg": "/QuizApp/static/media/img2.b5a0408d.jpg",
+    "static/media/img3.jpg": "/QuizApp/static/media/img3.acc6abc8.jpg",
+    "static/media/img4.jpeg": "/QuizApp/static/media/img4.c9e37d2c.jpeg",
+    "static/media/img5.jpg": "/QuizApp/static/media/img5.6a10ac07.jpg",
+    "static/media/img6.jpg": "/QuizApp/static/media/img6.b32af33f.jpg",
+    "static/media/img7.png": "/QuizApp/static/media/img7.751233b4.png",
+    "static/media/img8.jpg": "/QuizApp/static/media/img8.64b88f2a.jpg",
+    "static/media/quiz.png": "/QuizApp/static/media/quiz.7d912e4d.png"
+  }
+}
